@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-harunur-rashid-bappi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-harunur-rashid-bappi" height="30" width="40" /></a>
-<a href="https://fb.com/harunbappi0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harunbappi0110" height="30" width="40" /></a>
+<a href="https://www.facebook.com/HarunBappi68/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="HarunBappi68" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/harunbappi736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harunbappi736" height="30" width="40" /></a>
 </p>
 
