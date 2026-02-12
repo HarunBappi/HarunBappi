@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Harunur Rosid</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer (MERN, Next.js) from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 👨‍💻 My Personal Portfolio at (https://harun-professional-portfolio.vercel.app/)
 
-- 💬 Ask me about **Frontend Web Development**
+- 💬 Ask me about **Full Stack Developement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
