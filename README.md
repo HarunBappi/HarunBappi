@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/LJbtZ98/08-01-2025-14-26-28-REC-removebg-preview.png" alt="Banner" style="width: 100%; height: auto;" />
+  <img src="https://i.ibb.co.com/79C99DC/Md-harunur-rosid.png" alt="Banner" style="width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Harunur Rosid</h1>
